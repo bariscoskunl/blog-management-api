@@ -43,3 +43,11 @@ You can import it into Postman to test API endpoints easily.
 ## 🎯 Purpose
 
 This project was built to understand Web API fundamentals, routing, and HTTP methods in ASP.NET Core.
+
+## 📬 Contact
+
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out.
+
+- Email: bariscoskun441@gmail.com
+- GitHub: https://github.com/bariscoskunl
+- LinkedIn: https://www.linkedin.com/in/bariscoskun441
